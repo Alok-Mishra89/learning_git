@@ -1,1 +1,2 @@
-requests.log
+*.log
+log/*
